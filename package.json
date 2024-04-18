@@ -4,10 +4,12 @@
   },
   "dependencies": {
     "@hono/node-server": "^1.10.0",
+    "@prisma/client": "^5.12.1",
     "hono": "^4.2.3"
   },
   "devDependencies": {
     "@types/node": "^20.11.17",
+    "prisma": "^5.12.1",
     "tsx": "^4.7.1"
   }
 }
